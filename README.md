@@ -1,3 +1,6 @@
+![mobile (3)](https://github.com/klayngo/disneyCloneNexts/assets/91626236/1152194f-2897-45a7-816d-f983885dbc36)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
